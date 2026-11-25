@@ -1,0 +1,17 @@
+{
+  "model": "hist_gb",
+  "threshold": 0.19,
+  "cost_fn": 5.0,
+  "cost_fp": 1.0,
+  "test_roc_auc": 0.8492960293471803,
+  "test_pr_auc": 0.6570567336206165,
+  "test_brier": 0.1345710428516998,
+  "test_churn_rate": 0.2654364797728886,
+  "cost_at_threshold": 600.0,
+  "cost_at_0_5": 982.0,
+  "cost_flag_everyone": 1035.0,
+  "cost_flag_nobody": 1870.0,
+  "recall_at_threshold": 0.8663101604278075,
+  "precision_at_threshold": 0.4807121661721068,
+  "n_test": 1409
+}
